@@ -1,4 +1,4 @@
-<h1>Playlist Manager/h1>
+<h1>Playlist Manager</h1>
 
 <p>This is a Java-based CLI music player Manager. This is designed for efficient playlist management..</p>
 
