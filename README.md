@@ -17,4 +17,4 @@
 
 
 <h2>Contact</h2>
-<p>"Should you have any inquiries or recommendations, don't hesitate to reach out to [Kazura Kenzo] at [kazurakenzo@gmail.com].</p>
+<p>Should you have any inquiries or recommendations, don't hesitate to reach out to [Kazura Kenzo] at [kazurakenzo@gmail.com].</p>
