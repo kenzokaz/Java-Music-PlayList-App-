@@ -1,7 +1,3 @@
-<h1>Playlist Manager</h1>
-
-<p>This is a Java-based CLI music player Manager. This is designed for efficient playlist management..</p>
-
 <h2>Features</h2>
 <ul>
   <li>Play, pause, skip, and control music playback</li>
